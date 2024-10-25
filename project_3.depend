@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1703865632 source:c:\users\ram\desktop\task_dr_mahmoud\project_3\main.cpp
+	<iostream>
+	<string>
+	<windows.h>
+	<unistd.h>
+
+1703869232 source:c:\users\01287\desktop\task_dr_mahmoud\project_3\main.cpp
+	<iostream>
+	<string>
+	<windows.h>
+	<unistd.h>
+
